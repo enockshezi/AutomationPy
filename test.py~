@@ -1,0 +1,5 @@
+songname = input("Enter song name: ")
+
+songname = songname.join(".mp3")
+
+print(songname)
